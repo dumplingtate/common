@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = common
-build_property.ProjectDir = C:\Users\tatiana\source\repos\common\common\
+build_property.ProjectDir = C:\Users\tatiana\Desktop\common_project\common\common\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

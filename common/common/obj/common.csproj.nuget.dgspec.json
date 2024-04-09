@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tatiana\\source\\repos\\common\\common\\common.csproj": {}
+    "C:\\Users\\tatiana\\Desktop\\common_project\\common\\common\\common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tatiana\\source\\repos\\common\\common\\common.csproj": {
+    "C:\\Users\\tatiana\\Desktop\\common_project\\common\\common\\common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tatiana\\source\\repos\\common\\common\\common.csproj",
+        "projectUniqueName": "C:\\Users\\tatiana\\Desktop\\common_project\\common\\common\\common.csproj",
         "projectName": "common",
-        "projectPath": "C:\\Users\\tatiana\\source\\repos\\common\\common\\common.csproj",
+        "projectPath": "C:\\Users\\tatiana\\Desktop\\common_project\\common\\common\\common.csproj",
         "packagesPath": "C:\\Users\\tatiana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tatiana\\source\\repos\\common\\common\\obj\\",
+        "outputPath": "C:\\Users\\tatiana\\Desktop\\common_project\\common\\common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tatiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
